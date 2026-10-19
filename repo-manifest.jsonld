@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/wireservice/agate/commit/202796ada63357c275a2a5f8685a983e37bad9bf",
       "git:hexsha": "202796ada63357c275a2a5f8685a983e37bad9bf",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/wireservice/agate/commit/8a18ac135b7fc4e1b33902fbd2b904f5aec9c9a2",
